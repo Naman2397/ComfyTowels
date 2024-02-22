@@ -76,6 +76,7 @@ We all the team members were just Exploring various deployment options, such as 
 or deploying to a cloud hosting provider for production use.
 
 2024-02-22
+
 1300
 Added a button for the products named Towels
 Added more categories in the page like types.
