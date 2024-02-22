@@ -47,8 +47,49 @@ public static class SeedData
                     Size = "X-Large",
                     Color = "Yellow",
                     Price = 10
+                },
+                new Towels
+                 {
+                     TowelType = "Soft Turkish Cotton",
+                     Size = "Medium",
+                     Color = "Red",
+                     Price = 14
+                 },
+                new Towels
+                {
+                    TowelType = "Marche Egypt Cotton",
+                    Size = "Small",
+                    Color = "Blue",
+                    Price = 12
+                },
+                new Towels
+                {
+                    TowelType = "American soft",
+                    Size = "Large",
+                    Color = "Violet",
+                    Price = 15
+                },
+                new Towels
+                {
+                    TowelType = "Linen",
+                    Size = "X Large",
+                    Color = "Yellow",
+                    Price = 18
+                },
+                new Towels
+                {
+                    TowelType = "Rayon from Bamboo",
+                    Size = "Large",
+                    Color = "Grey",
+                    Price = 20
+                },
+                new Towels
+                {
+                    TowelType = "Terry cloth",
+                    Size = "X Large",
+                    Color = "Yellow",
+                    Price = 22
                 }
-
             );
             context.SaveChanges();
         }
