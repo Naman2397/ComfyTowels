@@ -22,32 +22,33 @@ public static class SeedData
             context.Towels.AddRange(
                 new Towels
                 {
-                    TowelType = "Type 1",
+                    TowelType = "Organic Towels",
                     Size = "Medium",
                     Color = "Black",
                     Price = 7
                 },
                 new Towels
                 {
-                    TowelType = "Type 2 ",
+                    TowelType = "Quick Dry",
                     Size = "Small",
                     Color = "White",
                     Price = 5
                 },
                 new Towels
                 {
-                    TowelType = "Type 3",
+                    TowelType = "Fibresoft Towels",
                     Size = "Large",
                     Color = "Grey",
                     Price = 9
                 },
                 new Towels
                 {
-                    TowelType = "Type 4",
+                    TowelType = "Spa Organic Towels",
                     Size = "X-Large",
                     Color = "Yellow",
                     Price = 10
                 }
+
             );
             context.SaveChanges();
         }
