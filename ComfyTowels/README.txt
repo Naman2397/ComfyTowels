@@ -80,3 +80,7 @@ or deploying to a cloud hosting provider for production use.
 Added a button for the products named Towels
 Added more categories in the page like types.
 Updated the database ran the application few errors occured resolved them and application was running
+
+2024-02-22
+1348
+Finally Ready to Submit the github repository file and our app is created.
