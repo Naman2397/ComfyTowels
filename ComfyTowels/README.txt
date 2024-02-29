@@ -30,7 +30,6 @@ We all gathered at Naman's place to perform the next steps.
 Adding Model
 defined a Towel class representing the structure of a towel, including properties like Towel type size color price 
 Created the homepage (Index.cshtml) where the list of towels is displayed. Used Razor syntax to dynamically render HTML based on the model data.
-Created the homepage (Index.cshtml) where the list of towels is displayed. Used Razor syntax to dynamically render HTML based on the model data.
 Determined the entities we need to represent in our application
 Open the appsettings.json file and add a connection string under the "ConnectionStrings" section.
 
@@ -76,6 +75,7 @@ We all the team members were just Exploring various deployment options, such as 
 or deploying to a cloud hosting provider for production use.
 
 2024-02-22
+
 1300
 Added a button for the products named Towels
 Added more categories in the page like types.
