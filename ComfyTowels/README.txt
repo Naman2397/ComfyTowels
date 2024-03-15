@@ -84,3 +84,38 @@ Updated the database ran the application few errors occured resolved them and ap
 2024-02-22
 1348
 Finally Ready to Submit the github repository file and our app is created.
+
+2024-3-12
+1340
+Installed required package for authentication
+then we setup the authentication middleware file
+then verfified that the authentication is working with valid credentials.
+
+2024-03-12
+1215
+We all the three members started working on troubleshooting the common wrrors we got in authentication
+Reached out to platforms like stack overflow for troubleshooting help.
+
+2024-03-13
+1620
+We push the changes to github repository after implementing authentication and authorization
+Invited the teammates to collaborate on the github repository
+We assigned tasks related to fixing errors, updating documentation and deploying the project
+
+2024-03-13
+1820
+Naman deployed our first dev version of our project
+Now our project is live on azure
+
+2024-03-14
+2215
+Now teammates can create pull request to propose changes.
+We reviewed and discussed proposed changes before merging then into the main branch.
+
+2024-03-14
+1115
+We are still getting error with authentication, our program didnot run so we keep on fixing the issues
+
+2024-03-15
+1012
+We all the teammates focused on fixing errors we encountered during authentication and authorization setup.
